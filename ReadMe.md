@@ -46,7 +46,6 @@ Ce fichier permet de terminer la session de l'enseignant ou de l'étudiant conne
 Dans le fichier SQL, on retrouve toutes les tables insérées dans la base de données, ainsi que les triggers utilisés pour assurer la cohérence, ainsi que les insertions effectuées dans la base de données avec les explications données.
 
 ## Auteur
-- **Nom et Prénoms :** 
   Aourane Lyna Ines
 - **Université :** CY Cergy Paris Université
 - **Date :** 03-12-2024
