@@ -48,5 +48,4 @@ Dans le fichier SQL, on retrouve toutes les tables insérées dans la base de do
 ## Auteurs
 
 -Aourane Lyna Ines
--Mokhtari Sara
--Sadadou Sarah
+
